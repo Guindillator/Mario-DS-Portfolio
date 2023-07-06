@@ -1,6 +1,6 @@
 # Hi, It's a me, Mario! 👋
 
-I'm a Data Scientist with a passion for transforming data into meaningful, actionable insights. With a background in [your educational or professional background], I bring a [unique/distinctive] approach to solving complex problems through data analysis and machine learning.
+I'm a Data Scientist with a passion for transforming data into meaningful, actionable insights. With a background in [bioinformatics], I bring a distinctive approach to solving complex problems through data analysis and machine learning.
 
 Throughout my career, I've had the opportunity to work on a diverse array of projects, from [description of one type of project] to [description of another type of project]. This experience has allowed me to develop strong skills in areas like [list of skills], as well as a deep understanding of how to leverage data to drive strategic decision-making.
 
@@ -43,4 +43,4 @@ I'm a passionate biologist turned data scientist, leveraging my academic backgro
 
 
 ## Let's Connect 🌐
-Find me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/) or drop me an email at your-email@domain.com.
+Find me on [LinkedIn](www.linkedin.com/in/mario-pg) or drop me an email at marprigod@gmail.com.
