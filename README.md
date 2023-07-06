@@ -40,7 +40,47 @@ I'm a passionate biologist turned data scientist, leveraging my academic backgro
 - [Bacterial diversity in soils from contaminated and uncontaminated areas of a copper mine](https://doi.org/10.13140/RG.2.2.22735.18080)
 - [Approaches to formally tracking, representing, and validating scientific argumentation](https://doi.org/10.13140/RG.2.2.16178.45761)
 
+## Certifications 📜
+- GDPR: Practical Implementation in the Enterprise
+- GDPR: European Data Protection Regulation
+- Master SQL for Data Science
+- Python for Advanced Data Scientists
+- Tableau for Data Scientists
+- Transformers: Text Classification for NLP Using BERT
+- Elastic Stack
+- Fundamentals of Project Management
+- Fundamentals of Project Management: Scheduling
+- Fundamentals of Project Management: Quality
+- Fundamentals of Project Management: Communication
+- Fundamentals of Project Management: Team Management
+- Fundamentals of Project Management: Budgets
+- Fundamentals of Project Management: Stakeholders
+- Fundamentals of Project Management: Ethics
+- Applying Analytics to Business Problems
+- Cloud Computing
+- E-commerce and e-Administration
+- Introduction to Business Intelligence and Big Data
+- Information Security
 
+## Skills 🚀
+- Data Analysis
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Data Mining
+- Data Visualization
+- Big Data Technologies (Hadoop, Spark)
+- Python Programming
+- R Programming
+- SQL
+- TensorFlow
+- PyTorch
+- Tableau
+- Docker
+- Kubernetes
+- NoSQL Databases
+- Git/GitHub
+- Project Management
 
 ## Let's Connect 🌐
 Find me on [LinkedIn](www.linkedin.com/in/mario-pg) or drop me an email at marprigod@gmail.com.
