@@ -83,4 +83,4 @@ I'm a passionate biologist turned data scientist, leveraging my academic backgro
 - Project Management
 
 ## Let's Connect 🌐
-Find me on [LinkedIn](www.linkedin.com/in/mario-pg) or drop me an email at marprigod@gmail.com.
+Find me on [LinkedIn](https://www.linkedin.com/in/mario-pg) or drop me an email at marprigod@gmail.com.
